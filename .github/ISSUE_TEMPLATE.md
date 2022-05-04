@@ -6,10 +6,10 @@
 ## Bieżące zachowanie
 <!--- Tell us what happens instead of the expected behavior -->
 
-## Possible Solution
+## Możliwe rozwiązania
 <!--- Not obligatory, but suggest a fix/reason for the bug, -->
 
-## Steps to Reproduce
+## Kroki do odtworzenia
 <!--- Provide a link to a live example, or an unambiguous set of steps to -->
 <!--- reproduce this bug. Include code to reproduce, if relevant -->
 1.
