@@ -1,5 +1,6 @@
 # Ćwiczenia
 
+todo wprowadzić adresy
 
 ## Adresy narzędzi
 
